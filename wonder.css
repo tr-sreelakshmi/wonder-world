@@ -1,0 +1,29 @@
+.box{
+    height: 600px;
+    width: 200px;
+    border: 2px solid rgb(7, 10, 7);
+    background-color: darkolivegreen;
+float:left;
+padding: 3px;
+}
+
+.pic{
+    height: 250px;
+    width: 100%;
+}
+body{
+    background-color: rgb(137, 158, 99);
+text-align: center;
+margin-left: 30px;
+
+}
+
+h1{
+color: rgb(12, 69, 12);
+text-shadow: 2px 2px 3px darkgreen;
+}
+p{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
